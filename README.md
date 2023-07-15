@@ -1,6 +1,9 @@
-# algs4-devcontainer
+# Fork from
+https://github.com/Saul-Mirone/algs4-devcontainer
 
-[Vscode devcontainer](https://code.visualstudio.com/docs/remote/containers) for [algs4 by princeton](https://algs4.cs.princeton.edu/home/).
+
+# Run by Codespaces
+https://docs.github.com/zh/codespaces/overview
 
 # Requirements
 
@@ -9,14 +12,9 @@
 - [Remote Container Extension for VSC](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 # Usage
-
-1. [Create a repo from this template on Github.](https://github.com/Saul-Mirone/algs4-devcontainer/generate)
-2. Clone the repo.
-3. Enter the local directory with your shell and type `.code`.
-4. Type `Cmd/Ctrl-Shift-P` and run `Remote-Containers: Open Folder in Container`.
-
-   (Or you can also just click the `Reopen in Container` button in toast.)
-5. Enjoy learning!
+1. click code => codespaces
+2. vscode / brower / Gateway
+3. Enjoy learning!
 
 
 # License
