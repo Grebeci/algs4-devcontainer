@@ -4,6 +4,8 @@
         "/usr/local/algs4/**/*.jar"
     ],
     "java.project.sourcePaths": [
-        "./"
-    ]
+        ""
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true
 }

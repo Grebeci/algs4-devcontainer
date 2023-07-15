@@ -1,7 +1,7 @@
 import edu.princeton.cs.algs4.StdOut;
 
 public class Hello {
-    static public void main(String[] args) {
-        StdOut.println("Hello Algs4!");
+    public static void main(String[] args) {
+        StdOut.println("hello world");
     }
 }

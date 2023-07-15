@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:11
 
 RUN mkdir -p /usr/local/algs4
 RUN chmod 755 /usr/local/algs4
