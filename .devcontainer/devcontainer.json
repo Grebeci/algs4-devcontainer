@@ -23,7 +23,9 @@
             "extensions": [
                 "vscjava.vscode-java-pack",
                 "shengchen.vscode-checkstyle",
-                "SonarSource.sonarlint-vscode"
+                "SonarSource.sonarlint-vscode",
+                "GitHub.copilot",
+                "GitHub.copilot-chat"
             ]
         }
     },
